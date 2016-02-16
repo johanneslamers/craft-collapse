@@ -1,5 +1,6 @@
-Collapsible sidebar for Craft CMS
+Collapsible sidebar for Craft CMS [![Total downloads](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/johanneslamers/craft-collapse)
 =================
+
 
 Simply hover over the sidebar. It’s like Craft 2.4 and Craft 2.5 had a baby.
 
