@@ -1,0 +1,46 @@
+/* Auto collapse left sidebar */
+
+#global-sidebar {
+    overflow-y: scroll;
+    clip: rect(0px, 60px, 100vh, 0px);
+    position: fixed;
+    transition: clip .3s ease;
+    z-index: 100;
+}
+
+#global-sidebar:hover {
+    clip: rect(0px, 240px, 100vh, 0);
+    box-shadow: 3px 0 15px rgba(0, 0, 0, 0.25);
+}
+
+#nav li a {
+    padding: 15px 20px;
+    min-height: 24px;
+    line-height: 20px;
+}
+
+#nav li a .icon {
+    width: 20px;
+}
+
+#nav li a .icon span[data-icon] {
+    font-size: 20px;
+}
+
+#nav li a .icon svg {
+    width: 20px;
+    max-height: 20px;
+}
+
+body.ltr #nav li a .icon {
+    margin-right: 20px;
+}
+
+body.rtl #nav li a .icon {
+    margin-left: 20px;
+}
+
+#global-sidebar .topbar a.site-name h2 {
+    padding: 0 0 0 46px;
+    margin: 0;
+}
