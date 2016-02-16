@@ -3,7 +3,7 @@ Collapsed sidebar for Craft CMS
 
 Simply hover over the sidebar.
 
-![](https://github.com/johanneslamers/craft-collapse/craft-collapse.gif)
+![](https://raw.githubusercontent.com/johanneslamers/craft-collapse/master/craft-collapse.gif)
 
 
 ***
