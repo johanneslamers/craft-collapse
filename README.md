@@ -1,4 +1,4 @@
-Collapsible sidebar for Craft CMS [![Total downloads](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/johanneslamers/craft-collapse)
+Collapsible sidebar for Craft CMS 
 =================
 
 
