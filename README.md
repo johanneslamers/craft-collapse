@@ -1,4 +1,4 @@
-Collapsed sidebar for Craft CMS
+Collapsible sidebar for Craft CMS
 =================
 
 Simply hover over the sidebar.
