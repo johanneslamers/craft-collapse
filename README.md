@@ -1,7 +1,7 @@
 Collapsible sidebar for Craft CMS
 =================
 
-Simply hover over the sidebar.
+Simply hover over the sidebar. It’s like Craft 2.4 and Craft 2.5 had a baby.
 
 ![](https://raw.githubusercontent.com/johanneslamers/craft-collapse/master/craft-collapse.gif)
 
